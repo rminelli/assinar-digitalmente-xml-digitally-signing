@@ -9,8 +9,7 @@
  Condições de uso:
  
 Este material pode ser copiado, distribuído, exibido e executado, bem como utilizado para criar obras derivadas,
- sob licença Creative Commons Attribution (http://creativecommons.org/licenses/by/2.5/br/), com a citação da fonte
- e o devido crédito.
+ sob licença MIT, com a citação da fonte  e o devido crédito.
 
     
 ##                                     (c) 2019 - NF-eletronica.com
